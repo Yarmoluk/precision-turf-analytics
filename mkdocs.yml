@@ -1,0 +1,110 @@
+site_name: Precision Turf Analytics
+site_description: Drone-Based Intelligence for Golf Course Management — A comprehensive guide to multispectral imaging, data-driven turf health, and precision agronomics.
+site_author: Chris Duchscher & Daniel Yarmoluk
+repo_name: precision-turf-analytics
+site_url: https://yarmoluk.github.io/precision-turf-analytics/
+repo_url: https://github.com/Yarmoluk/precision-turf-analytics
+edit_uri: edit/main/docs/
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Course Description: course-description.md
+  - Chapters:
+    - Overview: chapters/index.md
+    - 1. Introduction to Precision Turf Analytics: chapters/01-introduction/index.md
+    - 2. The Golf Course Ecosystem: chapters/02-golf-course-ecosystem/index.md
+    - 3. Multispectral Imaging Fundamentals: chapters/03-multispectral-imaging/index.md
+    - 4. Drone Platforms & Sensors: chapters/04-drone-platforms/index.md
+    - 5. Mission Planning & Flight Operations: chapters/05-mission-planning/index.md
+    - 6. Data Capture Best Practices: chapters/06-data-capture/index.md
+    - 7. Image Processing & Orthomosaics: chapters/07-image-processing/index.md
+    - 8. Vegetation Index Analysis: chapters/08-vegetation-index/index.md
+    - 9. Turf Disease Detection & Prevention: chapters/09-disease-detection/index.md
+    - 10. Irrigation & Water Management: chapters/10-irrigation-management/index.md
+    - 11. Chemical Application Optimization: chapters/11-chemical-optimization/index.md
+    - 12. Competitive Landscape & Platforms: chapters/12-competitive-landscape/index.md
+    - 13. Building a Drone Services Business: chapters/13-drone-business/index.md
+    - 14. AI Integration & Predictive Analytics: chapters/14-ai-integration/index.md
+    - 15. The SGL Partnership Model: chapters/15-sgl-partnership/index.md
+    - 16. Future of Autonomous Turf Management: chapters/16-future-autonomous/index.md
+  - MicroSims:
+    - Overview: sims/index.md
+  - Learning Graph: learning-graph/index.md
+  - Glossary: glossary.md
+  - FAQ: faq.md
+  - References: references.md
+  - License: license.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  favicon: img/favicon.svg
+  custom_dir: docs/overrides
+  features:
+    - content.code.copy
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
+    - toc.follow
+    - navigation.top
+    - navigation.footer
+    - content.action.edit
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+extra_css:
+  - css/extra.css
+
+extra_javascript:
+  - js/extra.js
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.mark
+  - pymdownx.tilde
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Yarmoluk/precision-turf-analytics
+
+copyright: Copyright &copy; 2026 Chris Duchscher & Daniel Yarmoluk | All rights reserved.
