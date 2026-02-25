@@ -38,4 +38,4 @@ The partnership model works through a defined integration: DSPs capture multispe
 
 The demo flight is the critical conversion mechanism in this model. A DSP conducts a complimentary or reduced-cost survey of 3-6 holes, processes the data through TurfBase, and presents results in a 30-minute walkthrough with the superintendent. When the demo reveals stress patterns, irrigation inconsistencies, or early disease indicators that the superintendent was not previously aware of, the conversion to a paid monitoring subscription becomes a natural next step. This chapter details the complete workflow from initial superintendent outreach through demo execution, proposal delivery, contract signing, and ongoing service delivery within the SGL ecosystem.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

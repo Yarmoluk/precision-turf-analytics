@@ -38,4 +38,4 @@ SGL's TurfBase represents the most comprehensive platform play, combining drone 
 
 The critical strategic question for the market is whether a single dominant platform will emerge — analogous to how John Deere Operations Center dominates precision agriculture — or whether the golf industry's smaller scale and diverse operational models will sustain a multi-platform ecosystem. For drone service providers and technology entrepreneurs, the answer determines whether to build proprietary platforms, integrate with existing ones, or pursue hybrid strategies that maintain flexibility while delivering value through whichever platforms their clients adopt.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

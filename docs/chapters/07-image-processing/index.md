@@ -38,4 +38,4 @@ Ground Sampling Distance (GSD) — the real-world size represented by a single p
 
 The processing platform landscape offers distinct tradeoffs. DJI Terra provides tight integration with DJI hardware and straightforward multispectral processing but limited analytical tools. Pix4Dfields delivers agriculture-optimized workflows with built-in vegetation index generation and zone management. WebODM offers an open-source alternative with full processing capability and no per-image licensing costs, at the expense of requiring more technical setup. This chapter evaluates each platform's strengths for turf analytics workflows and provides configuration guidance for optimal results.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

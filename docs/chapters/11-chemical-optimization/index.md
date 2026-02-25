@@ -38,4 +38,4 @@ Aerial analytics enables the shift from blanket application to prescription-base
 
 Variable rate application technology bridges the gap between aerial prescription maps and field execution. GPS-guided sprayers from manufacturers like AcuSpray can ingest zone-based prescription maps and automatically adjust application rates as they traverse the course. Even without VRA hardware, the simpler approach of generating printed spray maps that identify "treat" and "skip" zones enables manual applicators to achieve significant reductions. This chapter covers both the analytical pipeline for generating prescriptions and the operational methods for executing precision application in the field.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

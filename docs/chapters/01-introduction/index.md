@@ -38,4 +38,4 @@ Precision turf analytics introduces a systematic, data-driven layer on top of th
 
 The business case is compelling and measurable. Courses implementing precision analytics programs report 15-30% reductions in chemical inputs, 20-40% improvements in water use efficiency, and significant decreases in turf loss events. For a typical 18-hole private club spending $1.5-2.5M annually on maintenance, even modest efficiency gains translate to six-figure savings — while simultaneously improving playing conditions and environmental outcomes. This chapter establishes the framework for understanding how each subsequent technology and technique contributes to that value chain.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

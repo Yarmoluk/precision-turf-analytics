@@ -38,4 +38,4 @@ Multispectral drone data reveals moisture variability patterns that are invisibl
 
 The highest-value application of aerial moisture mapping is integration with modern smart irrigation controllers. Systems from Toro Lynx, Rain Bird IQ, and Hunter ICC2 can accept zone-level adjustment inputs that modify runtime based on measured deficit levels. When aerial analytics identifies that Green #12 is running 15% drier than neighboring greens while Green #14 is consistently oversaturated, those specific zones can be adjusted without disrupting the broader irrigation program. Courses implementing this feedback loop report 20-40% reductions in total water consumption while maintaining or improving turf quality metrics.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

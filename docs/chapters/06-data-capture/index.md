@@ -38,4 +38,4 @@ The single most important principle in data capture is consistency over perfecti
 
 A well-executed on-site session follows a predictable rhythm: arrive, assess conditions, deploy calibration panel, capture pre-flight reference, execute mission segments, capture post-flight reference, verify data quality on-device, and document conditions. The 75-90 minute on-site target is achievable with practice and proper preparation, making weekly monitoring sustainable as a service offering. This chapter establishes the field protocols that transform hardware capability into reliable, analyzable data.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

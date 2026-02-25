@@ -38,4 +38,4 @@ Anomaly detection is the most immediately deployable AI capability for turf anal
 
 Large Language Models introduce a transformative capability layer: translating complex spectral data into natural language reports that superintendents can immediately understand and act upon. Rather than delivering a heat map with a legend, an LLM-powered system can generate a report stating "Green #14 has declined 12% over three weeks in the southwest quadrant, consistent with the drainage issue identified last August. Recommend soil probe verification and potential aerification before stress accelerates." This natural language bridge between data science and agronomic action represents the most significant near-term opportunity for AI integration in the turf analytics workflow.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

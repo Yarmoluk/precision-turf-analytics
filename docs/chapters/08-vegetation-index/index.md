@@ -38,4 +38,4 @@ Threshold calibration is the critical first step in operationalizing vegetation 
 
 Temporal change detection transforms single-point-in-time snapshots into trend analysis. A green showing NDVI of 0.70 in isolation provides limited information. That same green showing a decline from 0.82 to 0.76 to 0.70 over three consecutive weeks reveals an accelerating stress trajectory that demands immediate attention — likely 7-14 days before visible symptoms would trigger a traditional visual inspection response. This predictive window is where precision turf analytics delivers its highest value.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

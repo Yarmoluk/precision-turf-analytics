@@ -38,4 +38,4 @@ Microclimates create invisible boundaries across a course that dramatically affe
 
 The choice between cool-season and warm-season grasses — or the challenges of managing both in transition zones — fundamentally shapes the analytics calendar. Cool-season grasses face peak stress in July and August, while warm-season varieties struggle through spring green-up and fall transition. Each grass type reflects light differently across spectral bands, requiring calibrated interpretation of vegetation indices. This chapter provides the agronomic foundation necessary to correctly interpret every data layer introduced in subsequent chapters.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

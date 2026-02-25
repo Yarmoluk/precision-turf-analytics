@@ -38,4 +38,4 @@ The convergence of autonomous aerial monitoring with ground-based robotic system
 
 This vision is not science fiction — every individual technology described above exists today in commercial or advanced prototype form. The remaining barriers are regulatory (BVLOS authorization), economic (cost curves for autonomous systems), and cultural (superintendent trust in automated decision-making). The golf maintenance market's trajectory toward $7 billion creates substantial economic incentive for technology investment, and early adopters of precision analytics are building the data foundations, operational workflows, and institutional knowledge that will position them to lead the autonomous transition. This chapter maps the timeline, identifies the inflection points, and provides a strategic framework for navigating the most significant transformation in golf course management since the introduction of automatic irrigation systems.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

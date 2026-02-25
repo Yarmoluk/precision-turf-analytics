@@ -38,4 +38,4 @@ RTK positioning transforms raw imagery from "approximately here" to "precisely h
 
 While the M3M represents the current sweet spot for turf analytics, understanding the broader platform landscape is essential for operators scaling their services. Enterprise platforms like the DJI Matrice 350 RTK offer heavier payload capacity for specialized sensors including thermal cameras and LIDAR, while fixed-wing platforms like the senseFly eBee provide efficiency advantages for large-acreage surveys. This chapter provides the framework for matching platform capabilities to operational requirements and budget constraints.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

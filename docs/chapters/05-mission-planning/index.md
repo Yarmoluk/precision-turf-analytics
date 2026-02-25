@@ -38,4 +38,4 @@ The corridor-based zoning approach divides an 18-hole course into manageable mis
 
 DJI Pilot 2 serves as the mission execution platform, supporting both pre-planned automated mapping missions and saved mission templates for repeatable weekly flights. The ability to save and refly identical flight paths is critical for temporal analysis — comparing this week's NDVI to last week's requires capturing from the same positions and angles. This chapter walks through the complete mission planning workflow from course reconnaissance through template creation to execution-day procedures.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

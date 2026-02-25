@@ -38,4 +38,4 @@ FAA Part 107 certification is the non-negotiable foundation — no commercial dr
 
 The Positive Altitude Growth case study illustrates the practical journey from startup to operational drone services company. From initial Part 107 certification through equipment acquisition, demo flight development, first client engagement, and service expansion, this real-world example demonstrates both the opportunities and challenges of building a turf analytics practice. Key lessons include the importance of demo flights in converting skeptical superintendents, the value of partnering with established turf platform providers, and the seasonal revenue patterns that require financial planning to navigate successfully.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

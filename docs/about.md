@@ -10,7 +10,7 @@ Daniel is the creator of the Cognify Framework, an AI-powered methodology for bu
 
 ## Methodology
 
-This textbook follows the **Intelligent Textbook** methodology developed by Dan McCreary, which structures educational content around:
+This textbook follows the **Intelligent Textbook** methodology, which structures educational content around:
 
 - **Learning graphs** — 200+ concepts with explicit dependency relationships
 - **Bloom's Taxonomy** — progressive learning objectives from Remember through Create

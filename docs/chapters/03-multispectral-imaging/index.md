@@ -38,4 +38,4 @@ Vegetation indices are mathematical combinations of spectral bands that isolate 
 
 Understanding these indices is not merely academic — it directly determines what a superintendent can and cannot detect from aerial imagery. A drone operator who captures only RGB imagery is essentially taking expensive photographs. One who captures calibrated multispectral data across five bands and understands which index to apply for which question transforms aerial data into actionable agronomic intelligence. This chapter builds the spectral literacy required to make that transformation.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*

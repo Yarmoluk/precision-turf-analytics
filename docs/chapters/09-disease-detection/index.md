@@ -38,4 +38,4 @@ Dollar spot, the most prevalent disease on golf course putting greens, creates s
 
 Beyond detection, emerging technologies are changing the treatment landscape. GreenGuard and similar UVC robotic systems apply targeted ultraviolet light to kill surface pathogens without chemical inputs — a technology that pairs naturally with precision mapping. When disease-risk zones are identified through aerial analytics, UVC treatment can be directed precisely where needed rather than applied broadly. This integration of detection and targeted treatment represents the next evolution of disease management: from calendar-based preventive spraying to data-driven precision response.
 
-*Full chapter content will be generated using the McCreary pipeline.*
+*Full chapter content will be generated using the YODA pipeline.*
